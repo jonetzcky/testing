@@ -1,0 +1,49 @@
+body {
+	
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: calibri;
+  background-color: #82a2e2;
+  background-image: url('./kuvat/error.jpg');
+}
+h1 {
+  font-size: 26px;
+  font-family: calibri;
+  border-style: solid;
+  border-color: white;
+  padding: 20px;
+   border-radius: 55px;
+ 
+}
+
+h2 {
+	font-family: calibri;
+}
+
+p {
+  font-size: 12px;
+  font-family: calibri;
+  color: #512999;
+  font-weight: bold;
+  border-style: dotted;
+  border-color: #32485c;
+  border-radius: 10px;
+  margin: 25px;
+  padding: 20px;
+}
+
+
+#kuva1 {
+ border-style: solid;
+  border-color: #32485c;
+  border-radius: 55px;
+  margin: 20px;
+  padding: 20px;
+}
+
+
+#kuva2 {
+  padding-left: 5px;
+}
+

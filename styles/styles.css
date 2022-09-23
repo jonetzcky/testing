@@ -1,0 +1,40 @@
+body {
+  background-color: ##ebc1ea;
+  font-family: calibri;
+}
+h1 {
+  color: #232384;
+  font-family: calibri;
+
+}
+h2 {
+	font-family: calibri;
+}
+
+p {
+  color: #0c3713;
+  font-family: calibri;
+}
+
+ul.a {
+  list-style-type: circle;
+  color: green;
+  font-family: calibri;
+}
+
+ul.b {
+  list-style-type: square;
+  color: blue;
+  font-family: calibri;
+  
+}
+
+ol.c {
+  list-style-type: upper-roman;
+  font-family: calibri;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+  font-family: calibri;
+}
